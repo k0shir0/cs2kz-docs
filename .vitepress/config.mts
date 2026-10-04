@@ -76,6 +76,7 @@ function sidebar(): DefaultTheme.SidebarItem[] {
         { text: "Maps", link: "/systems/maps" },
         { text: "Points", link: "/systems/points" },
         { text: "Styles", link: "/systems/styles" },
+        { text: "Command help", link: "/systems/command-help" },
       ],
     },
     {
