@@ -1,10 +1,10 @@
 # Command help
 
-Type `!help` or `/help` in chat to open the command reference. Select a category to see its commands, aliases, and descriptions. For example, `!help measure` opens the measurement category directly.
+Type `!help` or `/help` in chat to open or close the command reference. Select a category to see its commands, aliases, and descriptions. For example, `!help measure` opens the measurement category directly when help is closed.
 
 The help window uses your selected language, with English fallback for untranslated text. It also uses your menu font, color, and sound preferences.
 
-Command rows are read-only. Type a listed command in chat to use it. Categories with more than 32 rows have previous and next pages; close the window with the button in its upper-right corner to return to normal movement.
+Command rows are read-only. Type a listed command in chat to use it. Scroll through the commands in the selected category. Close the window with `!help`, `/help`, or the button in its upper-right corner to return to normal movement.
 
 Help has its own window. Opening `!options` closes help and opens the options menu; opening help closes options. Starting HUD editing closes help.
 
